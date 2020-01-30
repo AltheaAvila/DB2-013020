@@ -1,0 +1,1 @@
+SELECT DISTINCT job_id FROM avila_hr.employees
