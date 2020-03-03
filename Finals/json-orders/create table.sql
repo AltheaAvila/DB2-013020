@@ -1,0 +1,2 @@
+CREATE TABLE "03032020".orders( ID serial NOT NULL PRIMARY KEY,
+   info json NOT NULL);
